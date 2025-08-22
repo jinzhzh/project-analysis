@@ -1,0 +1,14 @@
+{
+    "results": [
+        {
+            "api_description": "Create a new Google Slides presentation with a specified title.",
+            "api_id": 10244,
+            "api_name": "create_empty_google_slide_deck",
+            "auth_info": {
+                "missing": [
+                    "google_slides_access_token"
+                ],
+                "status": "incomplete_auth",
+                "task_id": 228521,
+                "workflow_id": 32547
+            },
